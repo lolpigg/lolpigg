@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolpigg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolpigg)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lolpigg)](https://git.io/streak-stats)
+[![codewars](https://www.codewars.com/users/lolpigg/badges/large)](https://www.codewars.com/users/lolpigg)   
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lolpigg&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![](https://komarev.com/ghpvc/?username=lolpigg)
