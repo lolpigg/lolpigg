@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [![codewars](https://www.codewars.com/users/lolpigg/badges/large)](https://www.codewars.com/users/lolpigg)   
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lolpigg&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 ![](https://komarev.com/ghpvc/?username=lolpigg)
+<img height="172em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkaroDippens&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
