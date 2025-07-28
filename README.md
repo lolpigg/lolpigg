@@ -55,9 +55,9 @@
   <img src="https://www.codewars.com/users/lolpigg/badges/large" alt="Codewars"/>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/lolpigg" alt="Leetcode Stats"/>
-</p>
+//<p align="center">
+//  <img src="https://leetcard.jacoblin.cool/lolpigg" alt="Leetcode Stats"/>
+//</p>
 
 
 
